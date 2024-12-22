@@ -18,7 +18,7 @@
  
  🌱 I’m currently revising concepts of **Data Structures & Algorithms.**
 
- 👩‍💻 Backend Developer Intern'24 at **Blue Planet InfoSolutions India Pvt Ltd**.
+ 👩‍💻 JAVA Developer Intern'23 at **DUCAT INDIA Pvt Ltd**.
  
  👯 I’m looking to collaborate on some different projects.
  
