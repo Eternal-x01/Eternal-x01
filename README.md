@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&font+color=yellow&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shikhar+Gupta!;" />
 </h1>
 
-<h3 align="center">Full Stack Developer with 8 months of experience in Backend Development </h3>
+<h3 align="center">Full Stack Developer,multiple projects experience in Backend Development </h3>
 <!-- <img align="right" alt="coding" width="200" src="https://github.com/ananyaa01/ananyaa01/blob/main/Images/codercat1.png"> -->
 <img align="right" alt="coding" width="230" src="https://github.com/pragyasingh-29/pragyasingh-29/blob/main/Images/boyImage.jpg">
 
