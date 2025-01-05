@@ -22,7 +22,7 @@
  
  👯 I’m looking to collaborate on some different projects.
  
- 🤔 I’m looking for help with staying positive and ways to reduce overthinking
+ 🤔 I’m looking for help with staying positive and ways to maintain work-life balance
  
  </div>
  
@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/shikhar-gupta-06b9581ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="leetcode.com/u/pragyaa09__/" target="_blank">
+  <a href="leetcode.com/u/Eternal_x01/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=yellow&color=gray" target="_blank" />
   </a>
  
@@ -44,8 +44,8 @@
 <h2 align="center">:hammer_and_wrench:Languages-Technologies/Framework-Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql,php" /><br>
-    <img src="https://skillicons.dev/icons?i=mongodb,react,nodejs,express,java,vscode,bitbucket,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,react,nodejs,express,java,vscode,git,github" />
 </div>
 
 <br/>
