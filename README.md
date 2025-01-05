@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/shikhar-gupta-06b9581ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="leetcode.com/u/Eternal_x01/" target="_blank">
+  <a href="leetcode.com/u/Eternal_x01" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=yellow&color=gray" target="_blank" />
   </a>
  
